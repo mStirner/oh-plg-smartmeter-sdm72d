@@ -1,0 +1,13 @@
+{
+  "name": "oh-plg-smartmeter-sdm72d",
+  "version": "1.0.0",
+  "intents": [
+    "devices",
+    "endpoints",
+    "store"
+  ],
+  "author": "Marc Stirner <marc.stirner@open-haus.io>",
+  "website": "",
+  "description": "",
+  "uuid": "add34adc-e9a9-44c5-bca3-edea9516fbaa"
+}
